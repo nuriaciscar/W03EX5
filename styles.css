@@ -6,9 +6,12 @@ body {
   margin: 0 auto;
 }
 
-.div > * {
+.container > * {
   display: flex;
+  align-items: center;
+  justify-items: center;
   flex-direction: column;
+  margin-bottom: 30px;
   height: 30px;
   border: 1px solid yellow;
 }
