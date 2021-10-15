@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+}
+
+.container {
+  display: block;
+  height: 30px;
+  border: 1px solid yellow;
+}
