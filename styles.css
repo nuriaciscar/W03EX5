@@ -6,7 +6,7 @@ body {
   margin: 0 auto;
 }
 
-.container {
+.container__info {
   display: block;
   height: 30px;
   border: 1px solid yellow;
