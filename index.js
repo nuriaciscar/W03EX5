@@ -6,6 +6,5 @@ const div = document.querySelector("div");
 
 button.addEventListener("click", () => {
   const receivedTag = document.querySelector(".main-input").value;
-
   const newComponent = new Component(bigDiv, "", receivedTag);
 });
