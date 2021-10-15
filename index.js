@@ -1,4 +1,4 @@
-import Component from "./Component";
+import Component from "./Component.js";
 
 const button = document.querySelector(".button");
 const text = document.querySelector(".button").value;
